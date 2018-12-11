@@ -1,0 +1,113 @@
+[
+  {
+    "name": "John",
+    "status": "This is my status",
+    "src": "images/john.jpg",
+    "received_messages": [
+      {
+        "time": 1508001399,
+        "content": "My name is John"
+      },
+      {
+        "time": 1508113399,
+        "content": "I live near the city center"
+      },
+      {
+        "time": 1508155399,
+        "content": "Nice to meet you"
+      }
+    ],
+    "sent_messages": [
+      {
+        "time": 1508000399,
+        "content": "Hi whats your name?"
+      },
+      {
+        "time": 1508010399,
+        "content": "And where do you live?"
+      },
+      {
+        "time": 1508220399,
+        "content": "I am really glad to have met you :)"
+      }
+    ]
+  },
+  {
+    "name": "Amy",
+    "status": "I love oranges!",
+    "src": "images/amy.jpg",
+    "received_messages": [
+      {
+        "time": 1507900399,
+        "content": "Hi mate!"
+      },
+      {
+        "time": 1508020379,
+        "content": "Need your help with my essay"
+      },
+      {
+        "time": 1508210300,
+        "content": "Oranges.. :)"
+      }
+    ],
+    "sent_messages": [
+      {
+        "time": 1507891265,
+        "content": "Hey what`s up?"
+      },
+      {
+        "time": 1507943399,
+        "content": "Okay, what is the theme?"
+      },
+      {
+        "time": 1508331399,
+        "content": "wow, oranges, really?"
+      }
+    ]
+  },
+  {
+    "name": "Jack",
+    "status": "Hello, I'm Jack",
+    "src": "images/jack.jpg",
+    "received_messages": [
+      {
+        "time": 1507899399,
+        "content": "Where are you?"
+      },
+      {
+        "time": 1507988399,
+        "content": "Finished with classes, meet in caffe later?"
+      },
+      {
+        "time": 1507986399,
+        "content": "What book, I forgot"
+      },
+      {
+        "time": 1508150399,
+        "content": "No problem! :)"
+      },
+      {
+        "time": 1508160399,
+        "content": "See you.."
+      }
+    ],
+    "sent_messages": [
+      {
+        "time": 1507900399,
+        "content": "At class, you?"
+      },
+      {
+        "time": 1507998399,
+        "content": "Sure, bring me the book please :)"
+      },
+      {
+        "time": 1508155399,
+        "content": "Microeconomy"
+      },
+      {
+        "time": 1508150399,
+        "content": "Thanks, see you later"
+      }
+    ]
+  }
+]
